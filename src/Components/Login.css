@@ -1,0 +1,41 @@
+.loginside{
+    display: block;
+    position: relative;
+     top:100px;
+    padding:0 600px;
+    border-radius: 0;
+    text-align: center;
+   
+}
+
+
+
+body{
+    background-color: #567889;
+    border-radius: 0;
+}
+
+
+
+input{
+    width:100%;
+    margin:8px 0;
+    box-sizing: border-box;
+    border:2px solid black;
+    border-radius: 10px;
+    height: 40px;
+
+}
+
+.loginbutton{
+  background-color:lightblue;
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 10px;
+  color:white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}

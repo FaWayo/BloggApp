@@ -1,0 +1,28 @@
+.mainpost{
+    display:flex;
+    justify-content: space-between;
+    margin:20px 0px;
+
+}
+
+
+
+.title{
+    font-style: bold;
+    float:top;
+    display: inlines;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 30%;
+    font-size: 20px;
+}
+
+blog-image{
+    
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    padding: 10px;
+    
+}
